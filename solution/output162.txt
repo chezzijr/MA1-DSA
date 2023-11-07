@@ -1,0 +1,2659 @@
+LIGHT -1 line 3
+tp-2
+DOMAIN_EXPANSION line 4
+LIGHT -1 line 5
+tp-2
+LIGHT -1 line 7
+vm--9
+tp-2
+LIGHT 0 line 9
+LIGHT 0 line 11
+LIGHT 1 line 13
+tc-6
+tp-2
+vm--9
+su-1
+LIGHT -1 line 15
+jq--2
+su-1
+vm--9
+tp-2
+tc-6
+LIGHT 0 line 17
+LIGHT 1 line 19
+nq--9
+LIGHT 1 line 21
+uq--10
+nq--9
+DOMAIN_EXPANSION line 22
+LIGHT 1 line 23
+uq--10
+nq--9
+LIGHT -1 line 25
+sa-9
+uq--10
+nq--9
+LIGHT 0 line 27
+DOMAIN_EXPANSION line 28
+xp-2
+sa-9
+LIGHT 0 line 29
+LIGHT -1 line 31
+ns-5
+nq--9
+uq--10
+LIGHT -1 line 33
+gt--7
+nq--9
+uq--10
+ns-5
+LIGHT -1 line 35
+gt--7
+nq--9
+uq--10
+ns-5
+LIGHT 1 line 37
+gm-9
+ns-5
+uq--10
+nq--9
+gt--7
+LIGHT -1 line 39
+gm-9
+ns-5
+uq--10
+nq--9
+gt--7
+DOMAIN_EXPANSION line 40
+gm-9
+ns-5
+LIGHT 1 line 41
+gt--7
+nq--9
+uq--10
+LIGHT -1 line 43
+gt--7
+nq--9
+uq--10
+LIGHT -1 line 45
+qm-4
+gt--7
+nq--9
+uq--10
+LIGHT -1 line 47
+ip-6
+qm-4
+gt--7
+nq--9
+uq--10
+DOMAIN_EXPANSION line 48
+ip-6
+qm-4
+LIGHT 1 line 49
+uq--10
+nq--9
+gt--7
+LIGHT 1 line 51
+sa-9
+nq--9
+gt--7
+uq--10
+LIGHT -1 line 53
+ae-4
+uq--10
+gt--7
+nq--9
+sa-9
+LIGHT 0 line 55
+LIGHT -1 line 57
+tv--7
+LIGHT 0 line 59
+LIGHT -1 line 61
+qa--2
+tv--7
+ox-9
+LIGHT 1 line 63
+vw--6
+qa--2
+ox-9
+tv--7
+DOMAIN_EXPANSION line 64
+ox-9
+LIGHT 0 line 65
+DOMAIN_EXPANSION line 66
+LIGHT 1 line 67
+tv--7
+vw--6
+qa--2
+LIGHT 1 line 69
+zo-1
+vw--6
+qa--2
+tv--7
+LIGHT -1 line 71
+zo-1
+vw--6
+qa--2
+tv--7
+DOMAIN_EXPANSION line 72
+zo-1
+LIGHT -1 line 73
+tv--7
+vw--6
+qa--2
+LIGHT 1 line 75
+ns-5
+qa--2
+vw--6
+tv--7
+LIGHT 1 line 77
+LIGHT -1 line 79
+DOMAIN_EXPANSION line 80
+LIGHT 1 line 81
+LIGHT 1 line 83
+DOMAIN_EXPANSION line 84
+LIGHT 1 line 85
+LIGHT 0 line 87
+LIGHT -1 line 89
+tm-6
+LIGHT 1 line 91
+pc--10
+tm-6
+LIGHT -1 line 93
+bj--9
+pc--10
+tm-6
+LIGHT 1 line 95
+bp-1
+tm-6
+pc--10
+bj--9
+DOMAIN_EXPANSION line 96
+bp-1
+tm-6
+LIGHT -1 line 97
+pc--10
+bj--9
+LIGHT -1 line 99
+ry--5
+pc--10
+bj--9
+LIGHT 1 line 101
+bo--8
+ry--5
+bj--9
+pc--10
+LIGHT 1 line 103
+it--5
+ry--5
+bj--9
+pc--10
+bo--8
+DOMAIN_EXPANSION line 104
+LIGHT 1 line 105
+it--5
+ry--5
+bj--9
+pc--10
+bo--8
+DOMAIN_EXPANSION line 106
+LIGHT 0 line 107
+LIGHT -1 line 109
+sn--3
+it--5
+bo--8
+pc--10
+bj--9
+ry--5
+LIGHT 1 line 111
+sn--3
+ry--5
+bj--9
+pc--10
+bo--8
+it--5
+LIGHT 1 line 113
+sn--3
+it--5
+bo--8
+pc--10
+bj--9
+ry--5
+DOMAIN_EXPANSION line 114
+LIGHT -1 line 115
+sn--3
+ry--5
+bj--9
+pc--10
+bo--8
+it--5
+LIGHT 0 line 117
+LIGHT 1 line 119
+ko-3
+it--5
+bo--8
+pc--10
+bj--9
+ry--5
+sn--3
+DOMAIN_EXPANSION line 120
+ko-3
+LIGHT -1 line 121
+it--5
+sn--3
+ry--5
+bj--9
+pc--10
+bo--8
+LIGHT 1 line 123
+aw-9
+bo--8
+pc--10
+bj--9
+ry--5
+sn--3
+it--5
+LIGHT 1 line 125
+aw-9
+bo--8
+pc--10
+bj--9
+ry--5
+sn--3
+it--5
+LIGHT 0 line 127
+DOMAIN_EXPANSION line 128
+aw-9
+LIGHT -1 line 129
+bo--8
+rl--5
+it--5
+sn--3
+ry--5
+bj--9
+pc--10
+LIGHT -1 line 131
+bo--8
+rl--5
+it--5
+sn--3
+ry--5
+bj--9
+pc--10
+DOMAIN_EXPANSION line 132
+LIGHT 1 line 133
+bo--8
+pc--10
+bj--9
+ry--5
+sn--3
+it--5
+rl--5
+LIGHT 1 line 135
+zu-9
+pc--10
+bj--9
+ry--5
+sn--3
+it--5
+rl--5
+bo--8
+LIGHT 0 line 137
+LIGHT 1 line 139
+uj-3
+hz-5
+zu-9
+pc--10
+bj--9
+ry--5
+sn--3
+it--5
+rl--5
+bo--8
+LIGHT 0 line 141
+LIGHT -1 line 143
+zu-9
+hz-5
+tw-6
+uj-3
+rl--5
+LIGHT -1 line 145
+zu-9
+hz-5
+tw-6
+uj-3
+rl--5
+LIGHT -1 line 147
+pr--1
+hz-5
+tw-6
+uj-3
+rl--5
+zu-9
+LIGHT -1 line 149
+ta--6
+hz-5
+tw-6
+uj-3
+rl--5
+zu-9
+pr--1
+LIGHT 0 line 151
+DOMAIN_EXPANSION line 152
+jh--2
+ta--6
+pr--1
+rl--5
+LIGHT 1 line 153
+zu-9
+uj-3
+tw-6
+hz-5
+DOMAIN_EXPANSION line 154
+LIGHT -1 line 155
+zu-9
+hz-5
+tw-6
+uj-3
+LIGHT 1 line 157
+sm--7
+zu-9
+uj-3
+tw-6
+hz-5
+LIGHT 1 line 159
+cd-9
+zu-9
+uj-3
+tw-6
+hz-5
+sm--7
+LIGHT 0 line 161
+LIGHT -1 line 163
+zi--9
+sm--7
+hz-5
+tw-6
+uj-3
+zu-9
+cd-9
+of--7
+LIGHT -1 line 165
+fl--6
+zi--9
+sm--7
+hz-5
+tw-6
+uj-3
+zu-9
+cd-9
+of--7
+LIGHT 0 line 167
+DOMAIN_EXPANSION line 168
+cd-9
+tw-6
+uj-3
+hz-5
+zu-9
+LIGHT 1 line 169
+sm--7
+zi--9
+dv--7
+fl--6
+of--7
+LIGHT 0 line 171
+LIGHT 0 line 173
+LIGHT 1 line 175
+at-3
+LIGHT 1 line 177
+og--9
+at-3
+LIGHT 0 line 179
+LIGHT -1 line 181
+lu--5
+og--9
+at-3
+qs-9
+DOMAIN_EXPANSION line 182
+qs-9
+at-3
+LIGHT 1 line 183
+og--9
+lu--5
+LIGHT 1 line 185
+xc-4
+lu--5
+og--9
+LIGHT 0 line 187
+LIGHT 1 line 189
+tl-8
+lu--5
+og--9
+xc-4
+LIGHT 1 line 191
+tl-8
+lu--5
+og--9
+xc-4
+DOMAIN_EXPANSION line 192
+tl-8
+xc-4
+LIGHT -1 line 193
+lu--5
+og--9
+LIGHT -1 line 195
+gu-5
+lu--5
+og--9
+LIGHT -1 line 197
+hd-9
+gu-5
+lu--5
+og--9
+LIGHT 0 line 199
+LIGHT 1 line 201
+zd--9
+wp--7
+hd-9
+og--9
+lu--5
+gu-5
+LIGHT -1 line 203
+zd--9
+gu-5
+lu--5
+og--9
+hd-9
+wp--7
+LIGHT 0 line 205
+LIGHT 1 line 207
+fa-1
+wp--7
+hd-9
+og--9
+lu--5
+gu-5
+zd--9
+kp--2
+LIGHT -1 line 209
+fa-1
+kp--2
+hd-9
+wp--7
+og--9
+gu-5
+lu--5
+zd--9
+LIGHT -1 line 211
+mo-9
+fa-1
+kp--2
+hd-9
+wp--7
+og--9
+gu-5
+lu--5
+zd--9
+DOMAIN_EXPANSION line 212
+mo-9
+fa-1
+hd-9
+gu-5
+LIGHT 1 line 213
+og--9
+wp--7
+kp--2
+zd--9
+lu--5
+LIGHT 1 line 215
+og--9
+lu--5
+zd--9
+kp--2
+wp--7
+LIGHT -1 line 217
+og--9
+wp--7
+kp--2
+zd--9
+lu--5
+LIGHT 1 line 219
+og--9
+lu--5
+zd--9
+kp--2
+wp--7
+LIGHT -1 line 221
+kf--3
+og--9
+wp--7
+kp--2
+zd--9
+lu--5
+LIGHT 1 line 223
+ik--10
+kf--3
+lu--5
+zd--9
+kp--2
+wp--7
+og--9
+LIGHT 0 line 225
+LIGHT 1 line 227
+ao--1
+ik--10
+og--9
+wp--7
+kp--2
+zd--9
+lu--5
+kf--3
+DOMAIN_EXPANSION line 228
+LIGHT 1 line 229
+ao--1
+ik--10
+og--9
+wp--7
+kp--2
+zd--9
+lu--5
+kf--3
+DOMAIN_EXPANSION line 230
+LIGHT 0 line 231
+DOMAIN_EXPANSION line 232
+LIGHT -1 line 233
+ao--1
+kf--3
+lu--5
+zd--9
+kp--2
+wp--7
+og--9
+ik--10
+LIGHT 1 line 235
+sm--5
+ao--1
+ik--10
+og--9
+wp--7
+kp--2
+zd--9
+lu--5
+kf--3
+LIGHT -1 line 237
+vr--6
+kf--3
+lu--5
+zd--9
+kp--2
+wp--7
+og--9
+ik--10
+ao--1
+sm--5
+DOMAIN_EXPANSION line 238
+LIGHT 1 line 239
+vr--6
+sm--5
+ao--1
+ik--10
+og--9
+wp--7
+kp--2
+zd--9
+lu--5
+kf--3
+LIGHT -1 line 241
+ot--7
+kf--3
+lu--5
+zd--9
+kp--2
+wp--7
+og--9
+ik--10
+ao--1
+sm--5
+vr--6
+LIGHT -1 line 243
+mb-6
+ot--7
+kf--3
+lu--5
+zd--9
+kp--2
+wp--7
+og--9
+ik--10
+ao--1
+sm--5
+vr--6
+LIGHT 0 line 245
+LIGHT 0 line 247
+LIGHT 0 line 249
+LIGHT 1 line 251
+rz--1
+og--9
+wp--7
+kp--2
+zd--9
+lu--5
+kf--3
+ot--7
+ia--9
+cy--1
+wm--5
+mb-6
+vr--6
+sm--5
+ao--1
+ik--10
+LIGHT 1 line 253
+xc--5
+mb-6
+vr--6
+sm--5
+ao--1
+ik--10
+rz--1
+og--9
+wp--7
+kp--2
+zd--9
+lu--5
+kf--3
+ot--7
+ia--9
+cy--1
+wm--5
+LIGHT -1 line 255
+yh--8
+xc--5
+wm--5
+cy--1
+ia--9
+ot--7
+kf--3
+lu--5
+zd--9
+kp--2
+wp--7
+og--9
+rz--1
+ik--10
+ao--1
+sm--5
+vr--6
+mb-6
+LIGHT 1 line 257
+wh-9
+rz--1
+og--9
+wp--7
+kp--2
+zd--9
+lu--5
+kf--3
+ot--7
+ia--9
+cy--1
+wm--5
+xc--5
+yh--8
+mb-6
+vr--6
+sm--5
+ao--1
+ik--10
+LIGHT -1 line 259
+pe--7
+ik--10
+ao--1
+sm--5
+vr--6
+mb-6
+yh--8
+xc--5
+wm--5
+cy--1
+ia--9
+ot--7
+kf--3
+lu--5
+zd--9
+kp--2
+wp--7
+og--9
+rz--1
+wh-9
+LIGHT -1 line 261
+it-5
+ik--10
+ao--1
+sm--5
+vr--6
+mb-6
+yh--8
+xc--5
+wm--5
+cy--1
+ia--9
+ot--7
+kf--3
+lu--5
+zd--9
+kp--2
+wp--7
+og--9
+rz--1
+wh-9
+pe--7
+LIGHT 0 line 263
+LIGHT 1 line 265
+bk-7
+it-5
+pe--7
+wh-9
+rz--1
+og--9
+wp--7
+kp--2
+zd--9
+lu--5
+kf--3
+ot--7
+ia--9
+cy--1
+wm--5
+xc--5
+yh--8
+mb-6
+vr--6
+sm--5
+ao--1
+ik--10
+LIGHT -1 line 267
+gt-7
+ik--10
+ao--1
+sm--5
+vr--6
+mb-6
+yh--8
+xc--5
+wm--5
+cy--1
+ia--9
+ot--7
+kf--3
+lu--5
+zd--9
+kp--2
+wp--7
+og--9
+rz--1
+wh-9
+pe--7
+it-5
+bk-7
+LIGHT -1 line 269
+jr--9
+pe--7
+it-5
+bk-7
+gt-7
+ik--10
+ao--1
+sm--5
+vr--6
+mb-6
+yh--8
+xc--5
+wm--5
+cy--1
+ia--9
+ot--7
+kf--3
+lu--5
+zd--9
+kp--2
+wp--7
+og--9
+rz--1
+wh-9
+LIGHT 0 line 271
+LIGHT 0 line 273
+LIGHT 1 line 275
+ss-9
+gt-7
+bk-7
+it-5
+pe--7
+jr--9
+yk--1
+ed--8
+wh-9
+rz--1
+og--9
+wp--7
+kp--2
+zd--9
+lu--5
+kf--3
+ot--7
+ia--9
+cy--1
+wm--5
+xc--5
+yh--8
+mb-6
+vr--6
+sm--5
+ao--1
+ik--10
+DOMAIN_EXPANSION line 276
+ss-9
+gt-7
+bk-7
+it-5
+wh-9
+mb-6
+LIGHT 1 line 277
+vr--6
+sm--5
+ao--1
+ik--10
+pe--7
+jr--9
+yk--1
+ed--8
+rz--1
+og--9
+wp--7
+kp--2
+zd--9
+lu--5
+kf--3
+ot--7
+ia--9
+cy--1
+wm--5
+xc--5
+yh--8
+LIGHT 1 line 279
+om--2
+pe--7
+jr--9
+yk--1
+ed--8
+rz--1
+og--9
+wp--7
+kp--2
+zd--9
+lu--5
+kf--3
+ot--7
+ia--9
+cy--1
+wm--5
+xc--5
+yh--8
+vr--6
+sm--5
+ao--1
+ik--10
+LIGHT -1 line 281
+dp-9
+ik--10
+ao--1
+sm--5
+vr--6
+yh--8
+xc--5
+wm--5
+cy--1
+ia--9
+ot--7
+kf--3
+lu--5
+zd--9
+kp--2
+wp--7
+og--9
+rz--1
+ed--8
+yk--1
+jr--9
+pe--7
+om--2
+LIGHT 1 line 283
+pk--9
+dp-9
+om--2
+pe--7
+jr--9
+yk--1
+ed--8
+rz--1
+og--9
+wp--7
+kp--2
+zd--9
+lu--5
+kf--3
+ot--7
+ia--9
+cy--1
+wm--5
+xc--5
+yh--8
+vr--6
+sm--5
+ao--1
+ik--10
+LIGHT 1 line 285
+av-6
+pk--9
+dp-9
+om--2
+pe--7
+jr--9
+yk--1
+ed--8
+rz--1
+og--9
+wp--7
+kp--2
+zd--9
+lu--5
+kf--3
+ot--7
+ia--9
+cy--1
+wm--5
+xc--5
+yh--8
+vr--6
+sm--5
+ao--1
+ik--10
+LIGHT 1 line 287
+ry-2
+av-6
+pk--9
+dp-9
+om--2
+pe--7
+jr--9
+yk--1
+ed--8
+rz--1
+og--9
+wp--7
+kp--2
+zd--9
+lu--5
+kf--3
+ot--7
+ia--9
+cy--1
+wm--5
+xc--5
+yh--8
+vr--6
+sm--5
+ao--1
+ik--10
+LIGHT -1 line 289
+wb-8
+ik--10
+ao--1
+sm--5
+vr--6
+yh--8
+xc--5
+wm--5
+cy--1
+ia--9
+ot--7
+kf--3
+lu--5
+zd--9
+kp--2
+wp--7
+og--9
+rz--1
+ed--8
+yk--1
+jr--9
+pe--7
+om--2
+dp-9
+pk--9
+av-6
+ry-2
+LIGHT 1 line 291
+gy--3
+dp-9
+om--2
+pe--7
+jr--9
+yk--1
+ed--8
+rz--1
+og--9
+wp--7
+kp--2
+zd--9
+lu--5
+kf--3
+ot--7
+ia--9
+cy--1
+wm--5
+xc--5
+yh--8
+vr--6
+sm--5
+ao--1
+ik--10
+wb-8
+ry-2
+av-6
+pk--9
+LIGHT 0 line 293
+LIGHT 1 line 295
+pi--2
+dp-9
+pe--7
+om--2
+av-6
+gy--3
+pk--9
+ik--10
+ao--1
+sm--5
+vr--6
+yh--8
+xc--5
+wm--5
+cy--1
+ia--9
+ot--7
+kf--3
+lu--5
+zd--9
+kp--2
+wp--7
+og--9
+rz--1
+ed--8
+yk--1
+jr--9
+ry-2
+wb-8
+LIGHT -1 line 297
+vz--10
+pi--2
+wb-8
+ry-2
+jr--9
+yk--1
+ed--8
+rz--1
+og--9
+wp--7
+kp--2
+zd--9
+lu--5
+kf--3
+ot--7
+ia--9
+cy--1
+wm--5
+xc--5
+yh--8
+vr--6
+sm--5
+ao--1
+ik--10
+pk--9
+gy--3
+av-6
+om--2
+pe--7
+dp-9
+DOMAIN_EXPANSION line 298
+wb-8
+ry-2
+av-6
+dp-9
+LIGHT 1 line 299
+pe--7
+om--2
+gy--3
+pk--9
+ik--10
+ao--1
+sm--5
+vr--6
+yh--8
+xc--5
+wm--5
+cy--1
+ia--9
+ot--7
+kf--3
+lu--5
+zd--9
+kp--2
+wp--7
+og--9
+rz--1
+ed--8
+yk--1
+jr--9
+pi--2
+vz--10
+LIGHT -1 line 301
+wv--2
+ik--10
+pk--9
+gy--3
+om--2
+pe--7
+vz--10
+pi--2
+jr--9
+yk--1
+ed--8
+rz--1
+og--9
+wp--7
+kp--2
+zd--9
+lu--5
+kf--3
+ot--7
+ia--9
+cy--1
+wm--5
+xc--5
+yh--8
+vr--6
+sm--5
+ao--1
+LIGHT 1 line 303
+wv--2
+vr--6
+yh--8
+xc--5
+wm--5
+cy--1
+ia--9
+ot--7
+rz--1
+ed--8
+yk--1
+jr--9
+pi--2
+vz--10
+pe--7
+om--2
+gy--3
+pk--9
+DOMAIN_EXPANSION line 304
+LIGHT -1 line 305
+wv--2
+pk--9
+gy--3
+om--2
+pe--7
+vz--10
+pi--2
+jr--9
+yk--1
+ed--8
+rz--1
+ot--7
+ia--9
+cy--1
+wm--5
+xc--5
+yh--8
+vr--6
+LIGHT 1 line 307
+uz--10
+cy--1
+ia--9
+ot--7
+rz--1
+ed--8
+yk--1
+jr--9
+pi--2
+vz--10
+pe--7
+om--2
+gy--3
+pk--9
+wv--2
+vr--6
+yh--8
+xc--5
+wm--5
+LIGHT 0 line 309
+LIGHT -1 line 311
+wv--2
+pk--9
+gy--3
+om--2
+pe--7
+vz--10
+pi--2
+jr--9
+yk--1
+ed--8
+oe--5
+uz--10
+LIGHT 0 line 313
+LIGHT 1 line 315
+mr-4
+wg-7
+uz--10
+oe--5
+ed--8
+yk--1
+jr--9
+pi--2
+vz--10
+pe--7
+om--2
+gy--3
+pk--9
+wv--2
+DOMAIN_EXPANSION line 316
+mr-4
+wg-7
+LIGHT 1 line 317
+uz--10
+oe--5
+ed--8
+yk--1
+jr--9
+pi--2
+vz--10
+pe--7
+om--2
+gy--3
+pk--9
+wv--2
+LIGHT 1 line 319
+sq--2
+oe--5
+ed--8
+yk--1
+jr--9
+pi--2
+vz--10
+pe--7
+om--2
+gy--3
+pk--9
+wv--2
+uz--10
+LIGHT 1 line 321
+vk-6
+oe--5
+ed--8
+yk--1
+jr--9
+pi--2
+vz--10
+pe--7
+om--2
+gy--3
+pk--9
+wv--2
+uz--10
+sq--2
+LIGHT 0 line 323
+LIGHT -1 line 325
+jz-6
+oe--5
+ed--8
+yk--1
+jr--9
+pi--2
+vz--10
+pe--7
+om--2
+gy--3
+pk--9
+wv--2
+uz--10
+sq--2
+vk-6
+DOMAIN_EXPANSION line 326
+jz-6
+vk-6
+LIGHT 1 line 327
+sq--2
+uz--10
+wv--2
+pk--9
+gy--3
+om--2
+pe--7
+vz--10
+pi--2
+jr--9
+yk--1
+ed--8
+oe--5
+LIGHT -1 line 329
+kl--10
+oe--5
+ed--8
+yk--1
+jr--9
+pi--2
+vz--10
+pe--7
+om--2
+gy--3
+pk--9
+wv--2
+uz--10
+sq--2
+LIGHT -1 line 331
+sx--8
+kl--10
+oe--5
+ed--8
+yk--1
+jr--9
+pi--2
+vz--10
+pe--7
+om--2
+gy--3
+pk--9
+wv--2
+uz--10
+sq--2
+LIGHT 1 line 333
+eo--7
+yk--1
+ed--8
+oe--5
+kl--10
+sx--8
+sq--2
+uz--10
+wv--2
+pk--9
+gy--3
+om--2
+pe--7
+vz--10
+pi--2
+jr--9
+LIGHT 1 line 335
+wv--2
+gy--3
+vz--10
+pi--2
+eo--7
+oe--5
+kl--10
+sx--8
+sq--2
+uz--10
+LIGHT 1 line 337
+yu-8
+gy--3
+vz--10
+pi--2
+eo--7
+oe--5
+kl--10
+sx--8
+sq--2
+uz--10
+wv--2
+LIGHT 1 line 339
+fm--8
+yu-8
+gy--3
+vz--10
+pi--2
+eo--7
+oe--5
+kl--10
+sx--8
+sq--2
+uz--10
+wv--2
+LIGHT -1 line 341
+mf--6
+fm--8
+wv--2
+uz--10
+sq--2
+sx--8
+kl--10
+oe--5
+eo--7
+pi--2
+vz--10
+gy--3
+yu-8
+LIGHT 1 line 343
+gt--7
+mf--6
+yu-8
+gy--3
+vz--10
+pi--2
+eo--7
+oe--5
+kl--10
+sx--8
+sq--2
+uz--10
+wv--2
+fm--8
+LIGHT -1 line 345
+LIGHT 0 line 347
+LIGHT 1 line 349
+kb--6
+yw-3
+DOMAIN_EXPANSION line 350
+yw-3
+LIGHT -1 line 351
+kb--6
+LIGHT 1 line 353
+sm--6
+kb--6
+LIGHT 0 line 355
+LIGHT -1 line 357
+tv--2
+dd--10
+kb--6
+sm--6
+LIGHT 1 line 359
+di--6
+tv--2
+sm--6
+kb--6
+dd--10
+LIGHT 0 line 361
+LIGHT -1 line 363
+zf-3
+di--6
+dd--10
+kb--6
+sm--6
+tv--2
+hq-7
+LIGHT -1 line 365
+nw-7
+zf-3
+di--6
+dd--10
+kb--6
+sm--6
+tv--2
+hq-7
+LIGHT 1 line 367
+vd-8
+hq-7
+tv--2
+sm--6
+kb--6
+dd--10
+di--6
+zf-3
+nw-7
+LIGHT -1 line 369
+vd-8
+nw-7
+zf-3
+di--6
+dd--10
+kb--6
+sm--6
+tv--2
+hq-7
+LIGHT 0 line 371
+LIGHT 0 line 373
+LIGHT -1 line 375
+yt-7
+pl--9
+nw-7
+zf-3
+di--6
+dd--10
+kb--6
+sm--6
+tv--2
+hq-7
+vd-8
+sv--3
+LIGHT -1 line 377
+sn--4
+pl--9
+nw-7
+zf-3
+di--6
+dd--10
+kb--6
+sm--6
+tv--2
+hq-7
+vd-8
+sv--3
+yt-7
+DOMAIN_EXPANSION line 378
+yt-7
+vd-8
+nw-7
+zf-3
+hq-7
+LIGHT 1 line 379
+tv--2
+sm--6
+kb--6
+dd--10
+di--6
+pl--9
+sn--4
+sv--3
+LIGHT -1 line 381
+sx-4
+tv--2
+sv--3
+sn--4
+pl--9
+di--6
+dd--10
+kb--6
+sm--6
+LIGHT 1 line 383
+pu--1
+sx-4
+sm--6
+kb--6
+dd--10
+di--6
+pl--9
+sn--4
+sv--3
+tv--2
+LIGHT -1 line 385
+ql-4
+pu--1
+tv--2
+sv--3
+sn--4
+pl--9
+di--6
+dd--10
+kb--6
+sm--6
+sx-4
+LIGHT -1 line 387
+ql-4
+pu--1
+tv--2
+sv--3
+sn--4
+pl--9
+di--6
+dd--10
+kb--6
+sm--6
+sx-4
+LIGHT 1 line 389
+wb-8
+sx-4
+sm--6
+kb--6
+dd--10
+di--6
+pl--9
+sn--4
+sv--3
+tv--2
+pu--1
+ql-4
+LIGHT -1 line 391
+ro-4
+ql-4
+pu--1
+tv--2
+sv--3
+sn--4
+pl--9
+di--6
+dd--10
+kb--6
+sm--6
+sx-4
+wb-8
+LIGHT -1 line 393
+as--1
+ql-4
+pu--1
+tv--2
+sv--3
+sn--4
+pl--9
+di--6
+dd--10
+kb--6
+sm--6
+sx-4
+wb-8
+ro-4
+LIGHT 1 line 395
+bh--6
+as--1
+ro-4
+wb-8
+sx-4
+sm--6
+kb--6
+dd--10
+di--6
+pl--9
+sn--4
+sv--3
+tv--2
+pu--1
+ql-4
+LIGHT 1 line 397
+bh--6
+ql-4
+sx-4
+wb-8
+pu--1
+tv--2
+sv--3
+sn--4
+pl--9
+di--6
+dd--10
+kb--6
+sm--6
+ro-4
+as--1
+LIGHT -1 line 399
+bh--6
+sx-4
+wb-8
+ro-4
+pu--1
+tv--2
+ql-4
+sv--3
+sn--4
+pl--9
+di--6
+dd--10
+kb--6
+sm--6
+as--1
+LIGHT -1 line 401
+cq--1
+dd--10
+kb--6
+sm--6
+as--1
+bh--6
+sx-4
+wb-8
+ro-4
+pu--1
+tv--2
+ql-4
+sv--3
+sn--4
+pl--9
+di--6
+LIGHT -1 line 403
+ao--6
+ro-4
+pu--1
+tv--2
+ql-4
+sv--3
+sn--4
+pl--9
+di--6
+cq--1
+dd--10
+kb--6
+sm--6
+as--1
+bh--6
+sx-4
+wb-8
+LIGHT 1 line 405
+sw--8
+wb-8
+sx-4
+bh--6
+as--1
+sm--6
+kb--6
+dd--10
+cq--1
+di--6
+pl--9
+sn--4
+sv--3
+ql-4
+tv--2
+pu--1
+ro-4
+ao--6
+LIGHT 1 line 407
+pn-6
+cq--1
+di--6
+pl--9
+sn--4
+sv--3
+ql-4
+tv--2
+pu--1
+ro-4
+ao--6
+sw--8
+wb-8
+sx-4
+bh--6
+as--1
+sm--6
+kb--6
+dd--10
+LIGHT 0 line 409
+LIGHT 1 line 411
+yh--4
+wb-8
+sx-4
+bh--6
+as--1
+sm--6
+kb--6
+dd--10
+pn-6
+cq--1
+di--6
+pl--9
+sn--4
+sv--3
+ql-4
+tv--2
+pu--1
+ro-4
+ao--6
+sw--8
+LIGHT -1 line 413
+gj--3
+yh--4
+sw--8
+ao--6
+ro-4
+pu--1
+tv--2
+ql-4
+sv--3
+sn--4
+pl--9
+di--6
+cq--1
+pn-6
+dd--10
+kb--6
+sm--6
+as--1
+bh--6
+sx-4
+wb-8
+LIGHT 0 line 415
+LIGHT 1 line 417
+ct--6
+wb-8
+sx-4
+bh--6
+as--1
+sm--6
+kb--6
+dd--10
+bc-3
+pn-6
+cq--1
+di--6
+pl--9
+sn--4
+sv--3
+ql-4
+tv--2
+pu--1
+ro-4
+ao--6
+sw--8
+yh--4
+gj--3
+LIGHT -1 line 419
+gl--1
+ct--6
+gj--3
+yh--4
+sw--8
+ao--6
+ro-4
+pu--1
+tv--2
+ql-4
+sv--3
+sn--4
+pl--9
+di--6
+cq--1
+pn-6
+bc-3
+dd--10
+kb--6
+sm--6
+as--1
+bh--6
+sx-4
+wb-8
+LIGHT 1 line 421
+LIGHT 1 line 423
+ro-7
+LIGHT 1 line 425
+tt-7
+ro-7
+LIGHT 0 line 427
+LIGHT -1 line 429
+gq-8
+eb-3
+ro-7
+tt-7
+DOMAIN_EXPANSION line 430
+LIGHT -1 line 431
+gq-8
+eb-3
+ro-7
+tt-7
+LIGHT 1 line 433
+kr-7
+gq-8
+tt-7
+ro-7
+eb-3
+LIGHT -1 line 435
+wa--8
+eb-3
+ro-7
+tt-7
+gq-8
+kr-7
+LIGHT -1 line 437
+ct-4
+wa--8
+eb-3
+ro-7
+tt-7
+gq-8
+kr-7
+DOMAIN_EXPANSION line 438
+wa--8
+LIGHT -1 line 439
+eb-3
+ro-7
+tt-7
+gq-8
+kr-7
+ct-4
+LIGHT -1 line 441
+bt-3
+eb-3
+ro-7
+tt-7
+gq-8
+kr-7
+ct-4
+LIGHT 1 line 443
+wa--2
+bt-3
+ct-4
+kr-7
+gq-8
+tt-7
+ro-7
+eb-3
+DOMAIN_EXPANSION line 444
+wa--2
+LIGHT 0 line 445
+LIGHT 1 line 447
+zv-4
+bt-3
+ct-4
+kr-7
+gq-8
+tt-7
+ro-7
+eb-3
+LIGHT -1 line 449
+zv-4
+eb-3
+ro-7
+tt-7
+gq-8
+kr-7
+ct-4
+bt-3
+LIGHT 0 line 451
+DOMAIN_EXPANSION line 452
+gr--8
+LIGHT 1 line 453
+eb-3
+zv-4
+bt-3
+ct-4
+kr-7
+gq-8
+tt-7
+ro-7
+LIGHT 1 line 455
+oe--7
+eb-3
+zv-4
+bt-3
+ct-4
+kr-7
+gq-8
+tt-7
+ro-7
+LIGHT -1 line 457
+fi--3
+oe--7
+ro-7
+tt-7
+gq-8
+kr-7
+ct-4
+bt-3
+zv-4
+eb-3
+LIGHT 1 line 459
+am--10
+fi--3
+eb-3
+zv-4
+bt-3
+ct-4
+kr-7
+gq-8
+tt-7
+ro-7
+oe--7
+LIGHT -1 line 461
+vj--7
+am--10
+oe--7
+ro-7
+tt-7
+gq-8
+kr-7
+ct-4
+bt-3
+zv-4
+eb-3
+fi--3
+LIGHT -1 line 463
+nx-4
+vj--7
+am--10
+oe--7
+ro-7
+tt-7
+gq-8
+kr-7
+ct-4
+bt-3
+zv-4
+eb-3
+fi--3
+LIGHT 0 line 465
+LIGHT -1 line 467
+fl--7
+ro-7
+fi--3
+oe--7
+am--10
+vj--7
+nx-4
+eb-3
+zv-4
+bt-3
+ct-4
+kr-7
+gq-8
+tt-7
+LIGHT 1 line 469
+lu-2
+tt-7
+gq-8
+kr-7
+ct-4
+bt-3
+zv-4
+eb-3
+nx-4
+vj--7
+am--10
+oe--7
+fi--3
+ro-7
+fl--7
+DOMAIN_EXPANSION line 470
+fl--7
+vj--7
+am--10
+fi--3
+oe--7
+LIGHT 0 line 471
+DOMAIN_EXPANSION line 472
+LIGHT 1 line 473
+nx-4
+ro-7
+lu-2
+tt-7
+gq-8
+kr-7
+ct-4
+bt-3
+zv-4
+eb-3
+DOMAIN_EXPANSION line 474
+LIGHT 1 line 475
+nx-4
+ro-7
+lu-2
+tt-7
+gq-8
+kr-7
+ct-4
+bt-3
+zv-4
+eb-3
+LIGHT -1 line 477
+pz--9
+eb-3
+zv-4
+bt-3
+ct-4
+kr-7
+gq-8
+tt-7
+lu-2
+ro-7
+nx-4
+DOMAIN_EXPANSION line 478
+pz--9
+LIGHT -1 line 479
+eb-3
+zv-4
+bt-3
+ct-4
+kr-7
+gq-8
+tt-7
+lu-2
+ro-7
+nx-4
+LIGHT 0 line 481
+LIGHT -1 line 483
+bh--3
+ij--7
+zv-4
+bt-3
+ct-4
+kr-7
+gq-8
+tt-7
+lu-2
+ro-7
+nx-4
+eb-3
+LIGHT 1 line 485
+oj--9
+bh--3
+eb-3
+nx-4
+ro-7
+lu-2
+tt-7
+gq-8
+kr-7
+ct-4
+bt-3
+zv-4
+ij--7
+DOMAIN_EXPANSION line 486
+oj--9
+bh--3
+ij--7
+LIGHT -1 line 487
+zv-4
+bt-3
+ct-4
+kr-7
+gq-8
+tt-7
+lu-2
+ro-7
+nx-4
+eb-3
+DOMAIN_EXPANSION line 488
+LIGHT -1 line 489
+zv-4
+bt-3
+ct-4
+kr-7
+gq-8
+tt-7
+lu-2
+ro-7
+nx-4
+eb-3
+DOMAIN_EXPANSION line 490
+LIGHT 1 line 491
+zv-4
+eb-3
+nx-4
+ro-7
+lu-2
+tt-7
+gq-8
+kr-7
+ct-4
+bt-3
+LIGHT -1 line 493
+ng--3
+bt-3
+ct-4
+kr-7
+gq-8
+tt-7
+lu-2
+ro-7
+nx-4
+eb-3
+zv-4
+LIGHT 1 line 495
+ng--3
+zv-4
+eb-3
+nx-4
+ro-7
+lu-2
+tt-7
+gq-8
+kr-7
+ct-4
+bt-3
+LIGHT -1 line 497
+qk-6
+ng--3
+bt-3
+ct-4
+kr-7
+gq-8
+tt-7
+lu-2
+ro-7
+nx-4
+eb-3
+zv-4
+LIGHT 1 line 499
+hs--5
+qk-6
+zv-4
+eb-3
+nx-4
+ro-7
+lu-2
+tt-7
+gq-8
+kr-7
+ct-4
+bt-3
+ng--3
+LIGHT 0 line 501
+DOMAIN_EXPANSION line 502
+hs--5
+ng--3
+LIGHT 1 line 503
+bt-3
+yg-6
+qk-6
+zv-4
+eb-3
+nx-4
+ro-7
+lu-2
+tt-7
+gq-8
+kr-7
+ct-4
+LIGHT -1 line 505
+uf-5
+bt-3
+ct-4
+kr-7
+gq-8
+tt-7
+lu-2
+ro-7
+nx-4
+eb-3
+zv-4
+qk-6
+yg-6
+LIGHT -1 line 507
+hv-3
+bt-3
+ct-4
+kr-7
+gq-8
+tt-7
+lu-2
+ro-7
+nx-4
+eb-3
+zv-4
+qk-6
+yg-6
+uf-5
+DOMAIN_EXPANSION line 508
+LIGHT 1 line 509
+hv-3
+uf-5
+yg-6
+qk-6
+zv-4
+eb-3
+nx-4
+ro-7
+lu-2
+tt-7
+gq-8
+kr-7
+ct-4
+bt-3
+LIGHT 1 line 511
+en--8
+hv-3
+uf-5
+yg-6
+qk-6
+zv-4
+eb-3
+nx-4
+ro-7
+lu-2
+tt-7
+gq-8
+kr-7
+ct-4
+bt-3
+LIGHT -1 line 513
+bq--3
+tt-7
+lu-2
+ro-7
+nx-4
+eb-3
+zv-4
+qk-6
+yg-6
+uf-5
+hv-3
+en--8
+bt-3
+ct-4
+kr-7
+gq-8
+LIGHT 1 line 515
+rw--3
+gq-8
+kr-7
+ct-4
+bt-3
+en--8
+hv-3
+uf-5
+yg-6
+qk-6
+zv-4
+eb-3
+nx-4
+ro-7
+lu-2
+tt-7
+bq--3
+LIGHT 0 line 517
+LIGHT -1 line 519
+ne-9
+mr--10
+rw--3
+bq--3
+tt-7
+lu-2
+ro-7
+nx-4
+eb-3
+zv-4
+qk-6
+yg-6
+uf-5
+hv-3
+en--8
+bt-3
+ct-4
+kr-7
+gq-8
+LIGHT 0 line 521
+LIGHT -1 line 523
+en--8
+ne-9
+wl-7
+mr--10
+rw--3
+bq--3
+lu-2
+nx-4
+zv-4
+qk-6
+yg-6
+uf-5
+hv-3
+LIGHT 1 line 525
+xd-4
+hv-3
+uf-5
+yg-6
+qk-6
+zv-4
+nx-4
+lu-2
+bq--3
+rw--3
+mr--10
+wl-7
+ne-9
+en--8
+LIGHT 0 line 527
+LIGHT -1 line 529
+fq-7
+tk--10
+en--8
+ne-9
+wl-7
+mr--10
+rw--3
+bq--3
+lu-2
+nx-4
+zv-4
+qk-6
+yg-6
+uf-5
+hv-3
+xd-4
+LIGHT -1 line 531
+xs--5
+wl-7
+mr--10
+rw--3
+bq--3
+lu-2
+nx-4
+zv-4
+qk-6
+yg-6
+uf-5
+hv-3
+xd-4
+fq-7
+tk--10
+en--8
+ne-9
+LIGHT -1 line 533
+ql-8
+tk--10
+en--8
+ne-9
+xs--5
+wl-7
+mr--10
+rw--3
+bq--3
+lu-2
+nx-4
+zv-4
+qk-6
+yg-6
+uf-5
+hv-3
+xd-4
+fq-7
+LIGHT -1 line 535
+gc--8
+xs--5
+wl-7
+mr--10
+rw--3
+bq--3
+lu-2
+nx-4
+zv-4
+qk-6
+yg-6
+uf-5
+hv-3
+xd-4
+fq-7
+ql-8
+tk--10
+en--8
+ne-9
+LIGHT 0 line 537
+LIGHT 1 line 539
+oq--5
+ne-9
+en--8
+tk--10
+pv-5
+ql-8
+fq-7
+xd-4
+hv-3
+uf-5
+yg-6
+qk-6
+zv-4
+nx-4
+lu-2
+bq--3
+rw--3
+mr--10
+wl-7
+xs--5
+gc--8
+LIGHT -1 line 541
+fh-2
+tk--10
+en--8
+ne-9
+oq--5
+gc--8
+xs--5
+wl-7
+mr--10
+rw--3
+bq--3
+lu-2
+nx-4
+zv-4
+qk-6
+yg-6
+uf-5
+hv-3
+xd-4
+fq-7
+ql-8
+pv-5
+LIGHT 0 line 543
+DOMAIN_EXPANSION line 544
+fh-2
+pv-5
+ql-8
+fq-7
+xd-4
+wl-7
+ne-9
+LIGHT -1 line 545
+tk--10
+oq--5
+gc--8
+xs--5
+mr--10
+rw--3
+bq--3
+LIGHT -1 line 547
+tk--10
+bq--3
+rw--3
+mr--10
+xs--5
+gc--8
+oq--5
+LIGHT -1 line 549
+tk--10
+oq--5
+gc--8
+xs--5
+mr--10
+rw--3
+bq--3
+DOMAIN_EXPANSION line 550
+LIGHT 1 line 551
+tk--10
+bq--3
+rw--3
+mr--10
+xs--5
+gc--8
+oq--5
+LIGHT 0 line 553
+LIGHT 0 line 555
+DOMAIN_EXPANSION line 556
+LIGHT 0 line 557
+LIGHT -1 line 559
+LIGHT -1 line 561
+LIGHT 1 line 563
+lw-4
+DOMAIN_EXPANSION line 564
+LIGHT 1 line 565
+lw-4
+LIGHT -1 line 567
+gh-6
+lw-4
+LIGHT 1 line 569
+vm--10
+gh-6
+lw-4
+LIGHT 1 line 571
+vm--10
+gh-6
+lw-4
+LIGHT 1 line 573
+qr--9
+gh-6
+lw-4
+vm--10
+LIGHT -1 line 575
+qr--9
+gh-6
+lw-4
+vm--10
+LIGHT -1 line 577
+sj--7
+qr--9
+gh-6
+lw-4
+vm--10
+DOMAIN_EXPANSION line 578
+gh-6
+lw-4
+LIGHT 1 line 579
+qr--9
+sj--7
+vm--10
+LIGHT 1 line 581
+kp-5
+sj--7
+vm--10
+qr--9
+LIGHT -1 line 583
+zi-5
+kp-5
+qr--9
+vm--10
+sj--7
+LIGHT 0 line 585
+LIGHT 0 line 587
+DOMAIN_EXPANSION line 588
+ds-9
+zi-5
+kp-5
+LIGHT 1 line 589
+fr--6
+sj--7
+vm--10
+qr--9
+LIGHT -1 line 591
+lj--8
+qr--9
+vm--10
+sj--7
+fr--6
+LIGHT -1 line 593
+ox--1
+lj--8
+qr--9
+vm--10
+sj--7
+fr--6
+LIGHT 0 line 595
+LIGHT -1 line 597
+fr--6
+qg-6
+ox--1
+lj--8
+LIGHT 1 line 599
+us-9
+lj--8
+ox--1
+qg-6
+fr--6

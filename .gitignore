@@ -1,0 +1,4 @@
+output.txt
+bin/
+.vscode/
+generate.py
