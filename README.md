@@ -1,5 +1,5 @@
 # First Major Assigment in Data Structure and Algorithm course
-- Platform: Ubuntu 22.04 on WSL2, Windows 10
+- Platform: Ubuntu 22.04.3 LTS (GNU/Linux 5.10.102.1-microsoft-standard-WSL2 x86_64)
 - Compiler: `gcc version 11.4.0 (Ubuntu 11.4.0-1ubuntu1~22.04)`
 
 # Running
